@@ -7,6 +7,7 @@ header{
 
 h1{
     font-size: 30px;
+    margin-bottom: 0;
 }
 
 span{
@@ -21,5 +22,10 @@ span{
 #data{
     font-size: 10px;
     color: grey;
+    margin: 0;
+}
+
+.didascaliafoto{
+    font-size: 10px;
     margin: 0;
 }
