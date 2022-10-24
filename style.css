@@ -52,7 +52,16 @@ figure{
 }
 
 #uno{
-    background-color: rgb(32, 169, 229);}
+    background-color: rgb(32, 169, 229);
+}
+
+#due{
+    background-color: aqua;
+}
+
+#tre{
+    background-color: aqua;  
+}
 
 th{
     color: white;
