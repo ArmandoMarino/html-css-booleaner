@@ -31,6 +31,11 @@ span{
     margin: 0;
 }
 
+figure{
+    margin: 0;
+    text-align: center;
+}
+
 .didascaliafoto{
     font-size: 10px;
     margin: 0;
@@ -69,18 +74,28 @@ article{
 #scrittafooter {
     font-size: 20px;
     color: grey;
+    font-weight: 800;
 }
 
 .immaginefooter1{
     height: 200px;
     background-image: url(img/monitor.jpg);
     background-repeat: no-repeat;
+    margin-bottom: 5px;
 }
 
 .scrittaimmagine1{
     margin: 0;
-    padding-top: 5px;
-    padding-left: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
 }
 
-
+.immaginefooter2{
+    height: 200px;
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 5px;
+}
