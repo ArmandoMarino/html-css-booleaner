@@ -29,3 +29,8 @@ span{
     font-size: 10px;
     margin: 0;
 }
+
+.sottolineato{
+    background-color: yellow;
+    color: black;
+}
