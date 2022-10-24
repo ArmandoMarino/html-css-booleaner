@@ -41,7 +41,19 @@ span{
     color: black;
 }
 
-thead{
-
+th{
+    text-align: left;
 }
+
+.tdcorta{
+    width: 400px;
+}
+
+.tdlunga{
+    width: 600px;
+}
+
+
+
+
 
