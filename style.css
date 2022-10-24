@@ -41,9 +41,12 @@ span{
     color: black;
 }
 
+#uno{
+    background-color: rgb(32, 169, 229);}
+
 th{
-    background-color: rgb(32, 169, 229);
     color: white;
+    border: 1px;
 }
 
 tr{
@@ -59,7 +62,25 @@ tr{
     width: 600px;
 }
 
+article{
+    margin-top: 20px;
+}
 
+#scrittafooter {
+    font-size: 20px;
+    color: grey;
+}
 
+.immaginefooter1{
+    height: 200px;
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+}
+
+.scrittaimmagine1{
+    margin: 0;
+    padding-top: 5px;
+    padding-left: 5px;
+}
 
 
