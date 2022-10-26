@@ -1,8 +1,10 @@
+/*GENERIC*/
 .container{
     width: 80%;
     margin: 0px auto;
 }
 
+/*MAIN*/
 header{
     height: 100px;
     background-color: rgba(78,160,255,255);
@@ -36,6 +38,7 @@ span{
     margin: 0;
 }
 
+/*IMMAGINI MAIN*/
 figure{
     margin: 0;
     text-align: center;
@@ -46,11 +49,10 @@ figure{
     margin: 0;
 }
 
-.sottolineato{
-    background-color: yellow;
-    color: black;
+/*TABELLA*/
+table{
+    border-collapse: collapse;
 }
-
 #uno{
     background-color: rgb(32, 169, 229);
 }
@@ -85,6 +87,7 @@ article{
     margin-top: 20px;
 }
 
+/*FOOTER*/
 #scrittafooter {
     font-size: 20px;
     color: grey;
